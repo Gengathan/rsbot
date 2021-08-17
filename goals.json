@@ -1,0 +1,194 @@
+{
+    "Levels": {
+
+        "Attack": {
+            "50": "Diary cape",
+            "75": "Wield Godswords",
+            "99": "Max"
+        },
+
+        "Strength": {
+            "76": "Diary cape",
+            "99": "Max"
+        },
+        
+        "Defence": {
+            "70": "Diary cape",
+            "75": "Wear Serpentine helm, upgraded boots, dragonfire shield",
+            "80": "Wear Ferocious gloves",
+            "99": "Max"
+        },
+        
+        "Ranged": {
+            "70": "Diary cape",
+            "99": "Max"
+        },
+        
+        "Prayer": {
+            "70": "Piety & hard dairies",
+            "74": "Rigour prayer",
+            "77": "Augury prayer",
+            "85": "Diary cape",
+            "99": "Max"
+        },
+        
+        "Magic": {
+            "80": "Cast blood blitz",
+            "83": "Barrows teleport",
+            "87": "Enchant onyx jewellery",
+            "93": "Enchant zenyte jewellery + reanimate dragon",
+            "94": "Ice Barrage",
+            "96": "Diary cape",
+            "99": "Max"
+        },
+        
+        "Runecraft": {
+            "59": "Craft double cosmic runes",
+            "65": "Craft death runes",
+            "75": "Use giant pouch",
+            "77": "Craft blood runes",
+            "90": "Craft soul runes",
+            "91": "Diary cape",
+            "95": "Craft wrath runes",
+            "99": "Max"
+        },
+        
+        "Construction": {
+            "65": "Superior garden",
+            "70": "Revitalisation pool",
+            "72": "Portal nexus",
+            "78": "Diary cape",
+            "80": "Rejuvenation pool + spellbook altar",
+            "95": "Spirit tree & fairy ring (with 83 farming)",
+            "99": "Max"
+        },
+        
+        "Hitpoints": {
+            "70": "Diary cape",
+            "99": "Max"
+        },
+        
+        "Agility": {
+            "73": "Troll stronghold herb patch shortcut",
+            "82": "Hallowed Sepulchre 4th floor",
+            "90": "Diary cape",
+            "92": "Hallowed Sepulchre 5th floor",
+            "99": "Max"
+        },
+        
+        "Herblore": {
+            "72": "Ranging potion",
+            "77": "Stamina potion",
+            "81": "Saradomin brews",
+            "90": "Diary cape",
+            "99": "Max"
+        },
+        
+        "Thieving": {
+            "65": "Sorceress's Garden - summer",
+            "66": "Hallowed sepulchre: pick-lock coffins",
+            "71": "Pyramid plunder - 6th room",
+            "81": "Pyramid plunder - 7th room",
+            "91": "Pyramid plunder - 8th room + Dairy cape",
+            "99": "Max"
+        },
+        
+        "Crafting": {
+            "74": "Dragonstone bracelet",
+            "75": "Magic birdhouses (with 74 hunter)",
+            "80": "Dragonstone amulet",
+            "84": "Onyx bracelet",
+            "85": "Diary cape",
+            "90": "Onyx necklace",
+            "99": "Max"
+        },
+        
+        "Fletching": {
+            "69": "Rune crossbow",
+            "71": "Dragonstone bolts",
+            "73": "Onyx bolts",
+            "76": "Amethyst broad bolts",
+            "78": "Dragon crossbow",
+            "84": "Dragon bolts",
+            "95": "Diary cape",
+            "99": "Max"
+        },
+        
+        "Slayer": {
+            "72": "Skeletal wyvern (drops dragon platelegs) + Falador hard diary",
+            "75": "Gargoyles",
+            "83": "Spiritual mage (drops dragon boots)",
+            "85": "Abyssal demon (drops the abyssal whip)",
+            "87": "Cave kraken",
+            "90": "Dark beasts",
+            "91": "Cerberus",
+            "95": "Hydras + diary cape",
+            "99": "Max"
+        },
+        
+        "Hunter": {
+            "70": "Diary cape",
+            "73": "Black chinchompas",
+            "74": "Magic birdhouses (with 75 crafting)",
+            "80": "Herbiboar",
+            "89": "Redwood birdhouses (with 90 crafting)",
+            "99": "Max"
+        },
+
+        "Mining": {
+            "72": "Upper level of motherlode mine",
+            "85": "Mine runite ore + diary cape",
+            "92": "Mine amethyst",
+            "99": "Max"
+        },
+        
+        "Smithing": {
+            "73": "Adamant crossbow bolts",
+            "78": "Crystal shields, bows & halberds",
+            "80": "Godsword blades",
+            "85": "Runite bars",
+            "88": "Runite bolts",
+            "90": "Dragonfire shield & dragon platebody",
+            "91": "Diary cape",
+            "99": "Max"
+        },
+
+        "Fishing": {
+            "76": "Sharks",
+            "79": "Sea turtle",
+            "81": "Manta ray",
+            "82": "Anglerfish + minnows",
+            "96": "Catch sharks barehanded + diary cape",
+            "99": "Max"
+        },
+        
+        "Cooking": {
+            "80": "Sharks",
+            "82": "Sea turtle",
+            "84": "Anglerfish",
+            "91": "Manta ray",
+            "95": "Diary cape",
+            "99": "Max"
+        },
+        
+        "Firemaking": {
+            "80": "Magic pyre logs",
+            "85": "Diary cape",
+            "99": "No"
+        },
+        
+        "Woodcutting": {
+            "75": "Magic logs",
+            "90": "Redwood logs + diary  cape",
+            "99": "Max"
+        },
+        
+        "Farming": {
+            "83": "Spirit tree",
+            "85": "All herbs",
+            "91": "Diary cape",
+            "99": "Max"
+        }
+
+    }
+}
